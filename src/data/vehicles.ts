@@ -31,7 +31,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Azul Marino',
         code: '#0F3460',
-        image: 'https://images.pexels.com/photos/1054434/pexels-photo-1054434.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://soymotor.com/sites/default/files/2023-02/Toyota%20Corolla%202023%20exterior%201.jpg',
         priceModifier: 600
       }
     ],
