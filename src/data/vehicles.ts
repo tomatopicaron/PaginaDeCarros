@@ -88,7 +88,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Blanco Alpine',
         code: '#FFFFFF',
-        image: 'https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/1200x/d6/0a/75/d60a75eb3df8e22b0e6837a1a4d8f87f.jpg',
         priceModifier: 300
       },
       {
