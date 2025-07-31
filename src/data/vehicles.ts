@@ -82,7 +82,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Gris Titanio',
         code: '#6C757D',
-        image: 'https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/1200x/a5/65/54/a565549b8e04168eab5a20089db757a8.jpg',
         priceModifier: 0
       },
       {
