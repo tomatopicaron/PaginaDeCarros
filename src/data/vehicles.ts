@@ -121,8 +121,8 @@ export const vehicles: Vehicle[] = [
     id: 'car-3',
     name: 'Ford Raptor 2024',
     type: 'car',
-    basePrice: 45000,
-    category: 'Sedán',
+    basePrice: 60000,
+    category: 'Pick Up',
     description: 'Camioneta pick up fuerte',
     features: ['Motor 5.0L', 'Transmisión CVT', 'Aire acondicionado'],
     colors: [
@@ -189,7 +189,7 @@ export const vehicles: Vehicle[] = [
   {
     id: 'car-4',
     name: 'Dodge challnger srt hellcat',
-    type: 'car',
+    type: 'Sedan',
     basePrice: 85000,
     category: 'Sedán',
     description: 'Poder absoluto, velocidad punta increible',
@@ -260,7 +260,7 @@ export const vehicles: Vehicle[] = [
     name: 'Zastaba topolino',
     type: 'car',
     basePrice: 20000,
-    category: 'Sedán',
+    category: 'hatch back',
     description: 'Clasico, full estado, full equipo',
     features: ['Motor 600L', 'Transmisión manual', 'Aire acondicionado', 'Techo solar Topolino'],
     colors: [
@@ -328,8 +328,8 @@ export const vehicles: Vehicle[] = [
     id: 'car-6',
     name: 'Mazda Cx-5',
     type: 'car',
-    basePrice: 180000,
-    category: 'Sedán',
+    basePrice: 45000,
+    category: 'Suv',
     description: 'Suv compacta, practica para ciudad y carretera',
     features: ['Motor 2.0L', 'Transmisión automatica', 'techo corredizo', 'rines de lujo'],
     colors: [
