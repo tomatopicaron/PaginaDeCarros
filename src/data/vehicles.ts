@@ -13,7 +13,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Blanco Perla',
         code: '#F8F9FA',
-        image: 'https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://media.ed.edmunds-media.com/toyota/corolla/2023/oem/2023_toyota_corolla_sedan_xse_fq_oem_1_1280.jpg',
         priceModifier: 0
       },
       {
