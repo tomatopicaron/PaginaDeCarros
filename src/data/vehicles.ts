@@ -25,7 +25,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Rojo Metálico',
         code: '#DC3545',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQBCZRB-vlvVbd-1QuGD26KLQ733LjTAkWg&s',
+        image: 'https://cloud.leparking.fr/2023/09/27/01/35/toyota-corolla-2024-toyota-corolla-hybrid-se-black_8909340631.jpg',
         priceModifier: 800
       },
       {
