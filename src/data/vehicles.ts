@@ -42,7 +42,7 @@ export const vehicles: Vehicle[] = [
         price: 1200,
         category: 'Llantas',
         description: 'Llantas de aleación ligera para mejor rendimiento',
-        image: 'https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/1200x/7b/e6/d2/7be6d26233ad1fe20940ff7727cccf8d.jpg'
       },
       {
         id: 'car-acc-2',
@@ -50,7 +50,7 @@ export const vehicles: Vehicle[] = [
         price: 800,
         category: 'Audio',
         description: 'Sistema de sonido de alta calidad con subwoofer',
-        image: 'https://images.pexels.com/photos/1191710/pexels-photo-1191710.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/736x/78/58/91/785891a2f4908c9f1e91a83dc8fdd6e4.jpg'
       },
       {
         id: 'car-acc-3',
@@ -58,7 +58,7 @@ export const vehicles: Vehicle[] = [
         price: 450,
         category: 'Iluminación',
         description: 'Luces LED de alta eficiencia para mayor visibilidad',
-        image: 'https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/736x/60/fd/3f/60fd3f3281d5438029f548d282b20fed.jpg'
       },
       {
         id: 'car-acc-4',
@@ -66,7 +66,7 @@ export const vehicles: Vehicle[] = [
         price: 280,
         category: 'Seguridad',
         description: 'Sistema de alarma con control remoto',
-        image: 'https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/1200x/60/5f/98/605f98555733b566446f17b8b4f685ec.jpg'
       }
     ]
   },
@@ -105,7 +105,7 @@ export const vehicles: Vehicle[] = [
         price: 650,
         category: 'Estética',
         description: 'Spoiler aerodinámico para mejor apariencia',
-        image: 'https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/736x/81/14/4f/81144f5fcb9005174ab32fd502c65a01.jpg'
       },
       {
         id: 'car-acc-6',
@@ -113,7 +113,7 @@ export const vehicles: Vehicle[] = [
         price: 800,
         category: 'Audio',
         description: 'Sistema de sonido de alta calidad con subwoofer',
-        image: 'https://images.pexels.com/photos/1191710/pexels-photo-1191710.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/736x/78/58/91/785891a2f4908c9f1e91a83dc8fdd6e4.jpg'
       }
     ]
   },
@@ -152,7 +152,7 @@ export const vehicles: Vehicle[] = [
         price: 600,
         category: 'Performance',
         description: 'Escape de acero inoxidable para mejor sonido',
-        image: 'https://images.pexels.com/photos/1715191/pexels-photo-1715191.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/1200x/3a/e5/be/3ae5be9024cc0b3ba4167b7635abf03e.jpg'
       },
       {
         id: 'moto-acc-2',
@@ -160,7 +160,7 @@ export const vehicles: Vehicle[] = [
         price: 350,
         category: 'Iluminación',
         description: 'Luces LED para mayor visibilidad',
-        image: 'https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=400'
+        image: 'https://i.pinimg.com/736x/60/fd/3f/60fd3f3281d5438029f548d282b20fed.jpg'
       }
     ]
   },
@@ -206,7 +206,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 350,
     category: 'Seguridad',
     description: 'Casco certificado DOT con visera antivaho',
-    image: 'https://images.pexels.com/photos/1715193/pexels-photo-1715193.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/1200x/9c/89/56/9c8956c286d4c7c1463bca2c515ac514.jpg',
     compatible: ['motorcycle']
   },
   {
@@ -215,7 +215,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 120,
     category: 'Seguridad',
     description: 'Guantes de cuero genuino con protección',
-    image: 'https://images.pexels.com/photos/1715191/pexels-photo-1715191.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/736x/d4/3c/8d/d43c8df0fbb9783924c66570d36871f7.jpg',
     compatible: ['motorcycle']
   },
   {
@@ -224,7 +224,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 280,
     category: 'Seguridad',
     description: 'Chaqueta con protecciones en codos y espalda',
-    image: 'https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/1200x/71/5d/25/715d2570d5feba2388e6c2c02e7a4f5e.jpg',
     compatible: ['motorcycle']
   },
   {
@@ -233,7 +233,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 80,
     category: 'Comodidad',
     description: 'Fundas de cuero sintético para asientos',
-    image: 'https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/736x/28/c2/ef/28c2ef930eaa9fb101dfe550dcff5856.jpg',
     compatible: ['car']
   },
   {
@@ -242,7 +242,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 150,
     category: 'Comodidad',
     description: 'Tapetes de goma de alta calidad',
-    image: 'https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/736x/dc/0c/e4/dc0ce40783250e343274a597beb5cbe8.jpg',
     compatible: ['car']
   },
   {
@@ -251,7 +251,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 60,
     category: 'Organización',
     description: 'Organizador plegable para maletero',
-    image: 'https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/1200x/33/7f/a2/337fa2bd9fcde00d57ff0c9c2c251d4d.jpg',
     compatible: ['car']
   },
   {
@@ -260,7 +260,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 25,
     category: 'Tecnología',
     description: 'Cargador USB dual para encendedor',
-    image: 'https://images.pexels.com/photos/1054434/pexels-photo-1054434.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/1200x/ea/bf/96/eabf96f7772bad7170f8cf2fe40f1472.jpg',
     compatible: ['car', 'motorcycle']
   },
   {
@@ -269,7 +269,7 @@ export const storeAccessories: StoreAccessory[] = [
     price: 35,
     category: 'Tecnología',
     description: 'Soporte magnético para smartphone',
-    image: 'https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://i.pinimg.com/1200x/af/76/31/af763154766a6344785610476038fb8a.jpg',
     compatible: ['car', 'motorcycle']
   }
 ];
