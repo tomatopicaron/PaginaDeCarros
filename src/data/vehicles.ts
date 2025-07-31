@@ -19,7 +19,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Negro Diamante',
         code: '#212529',
-        image: 'https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://www.elcarrocolombiano.com/wp-content/uploads/2023/05/202309-TOYOTA-COROLLA-2024-PORTADA.jpg',
         priceModifier: 500
       },
       {
