@@ -176,13 +176,13 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Rojo Honda',
         code: '#DC3545',
-        image: 'https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/1200x/8d/25/d8/8d25d858d2169579edf6e9300edf6caa.jpg',
         priceModifier: 0
       },
       {
         name: 'Negro Metálico',
         code: '#343A40',
-        image: 'https://images.pexels.com/photos/1715193/pexels-photo-1715193.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/1200x/2d/9b/61/2d9b612b42374a8d248f29db5360991c.jpg',
         priceModifier: 500
       }
     ],
