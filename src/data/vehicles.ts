@@ -94,7 +94,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Azul Deportivo',
         code: '#007BFF',
-        image: 'https://images.pexels.com/photos/2127733/pexels-photo-2127733.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/736x/2b/6d/bc/2b6dbcee8448054e2c78ad73be6cf437.jpg',
         priceModifier: 1000
       }
     ],
