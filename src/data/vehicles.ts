@@ -25,7 +25,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Rojo Metálico',
         code: '#DC3545',
-        image: 'https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQBCZRB-vlvVbd-1QuGD26KLQ733LjTAkWg&s',
         priceModifier: 800
       },
       {
