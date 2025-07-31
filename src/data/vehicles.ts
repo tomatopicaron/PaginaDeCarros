@@ -325,42 +325,30 @@ export const vehicles: Vehicle[] = [
     ]
   },
   {
-    id: 'car-1',
-    name: 'Toyota Corolla 2024',
+    id: 'car-6',
+    name: 'Mazda Cx-5',
     type: 'car',
-    basePrice: 25000,
+    basePrice: 180000,
     category: 'Sedán',
-    description: 'Sedán confiable y económico, perfecto para uso diario',
-    features: ['Motor 1.8L', 'Transmisión CVT', 'Aire acondicionado', 'Sistema de seguridad Toyota Safety Sense'],
+    description: 'Suv compacta, practica para ciudad y carretera',
+    features: ['Motor 2.0L', 'Transmisión automatica', 'techo corredizo', 'rines de lujo'],
     colors: [
       {
-        name: 'Blanco Perla',
+        name: 'Gris mate',
         code: '#F8F9FA',
-        image: 'https://media.ed.edmunds-media.com/toyota/corolla/2023/oem/2023_toyota_corolla_sedan_xse_fq_oem_1_1280.jpg',
+        image: 'https://i.pinimg.com/736x/e4/52/9d/e4529dbd079f34a5850b4d6aa84377b7.jpg',
         priceModifier: 0
       },
       {
-        name: 'Negro Diamante',
+        name: 'Rojo mazda',
         code: '#212529',
-        image: 'https://www.elcarrocolombiano.com/wp-content/uploads/2023/05/202309-TOYOTA-COROLLA-2024-PORTADA.jpg',
+        image: 'https://i.pinimg.com/1200x/22/f3/eb/22f3eb6632768d96da385ba685661697.jpg',
         priceModifier: 500
-      },
-      {
-        name: 'Rojo Metálico',
-        code: '#DC3545',
-        image: 'https://i.pinimg.com/736x/d6/24/dc/d624dc84ab1b68d4bbed3682c37e71c0.jpg',
-        priceModifier: 800
-      },
-      {
-        name: 'Azul Marino',
-        code: '#0F3460',
-        image: 'https://soymotor.com/sites/default/files/2023-02/Toyota%20Corolla%202023%20exterior%201.jpg',
-        priceModifier: 600
       }
     ],
     accessories: [
       {
-        id: 'car-acc-1',
+        id: 'car-acc-19',
         name: 'Llantas Deportivas 18"',
         price: 1200,
         category: 'Llantas',
@@ -368,7 +356,7 @@ export const vehicles: Vehicle[] = [
         image: 'https://i.pinimg.com/1200x/7b/e6/d2/7be6d26233ad1fe20940ff7727cccf8d.jpg'
       },
       {
-        id: 'car-acc-2',
+        id: 'car-acc-20',
         name: 'Sistema de Audio Premium',
         price: 800,
         category: 'Audio',
@@ -376,7 +364,7 @@ export const vehicles: Vehicle[] = [
         image: 'https://i.pinimg.com/736x/78/58/91/785891a2f4908c9f1e91a83dc8fdd6e4.jpg'
       },
       {
-        id: 'car-acc-3',
+        id: 'car-acc-21',
         name: 'Kit de Luces LED',
         price: 450,
         category: 'Iluminación',
@@ -384,7 +372,7 @@ export const vehicles: Vehicle[] = [
         image: 'https://i.pinimg.com/736x/60/fd/3f/60fd3f3281d5438029f548d282b20fed.jpg'
       },
       {
-        id: 'car-acc-4',
+        id: 'car-acc-22',
         name: 'Alarma de Seguridad',
         price: 280,
         category: 'Seguridad',
