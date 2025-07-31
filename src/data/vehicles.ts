@@ -129,7 +129,7 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Azul Yamaha',
         code: '#0066CC',
-        image: 'https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/736x/f0/3e/42/f03e4222848b72d8f75dd387b0d44b1e.jpg',
         priceModifier: 0
       },
       {
