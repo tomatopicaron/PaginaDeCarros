@@ -189,7 +189,7 @@ export const vehicles: Vehicle[] = [
   {
     id: 'car-4',
     name: 'Dodge challnger srt hellcat',
-    type: 'Sedan',
+    type: 'Car',
     basePrice: 85000,
     category: 'Sedán',
     description: 'Poder absoluto, velocidad punta increible',
