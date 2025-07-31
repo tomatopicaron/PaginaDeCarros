@@ -135,13 +135,13 @@ export const vehicles: Vehicle[] = [
       {
         name: 'Negro Mate',
         code: '#2C2C2C',
-        image: 'https://images.pexels.com/photos/1715193/pexels-photo-1715193.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/736x/c3/4a/f9/c34af93142f0d52d36cdf370b7f6e97f.jpg',
         priceModifier: 400
       },
       {
         name: 'Blanco Racing',
         code: '#F8F9FA',
-        image: 'https://images.pexels.com/photos/1715191/pexels-photo-1715191.jpeg?auto=compress&cs=tinysrgb&w=800',
+        image: 'https://i.pinimg.com/1200x/57/73/c2/5773c2a23103e9ac70cc9bea42b0f81c.jpg',
         priceModifier: 600
       }
     ],
