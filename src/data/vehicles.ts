@@ -188,7 +188,7 @@ export const vehicles: Vehicle[] = [
   },
   {
     id: 'car-4',
-    name: 'dodge challnger srt hellcat',
+    name: 'Dodge challnger srt hellcat',
     type: 'car',
     basePrice: 85000,
     category: 'Sedán',
@@ -256,50 +256,50 @@ export const vehicles: Vehicle[] = [
     ]
   },
   {
-    id: 'car-1',
-    name: 'Toyota Corolla 2024',
+    id: 'car-5',
+    name: 'Zastaba topolino',
     type: 'car',
-    basePrice: 25000,
+    basePrice: 20000,
     category: 'Sedán',
-    description: 'Sedán confiable y económico, perfecto para uso diario',
-    features: ['Motor 1.8L', 'Transmisión CVT', 'Aire acondicionado', 'Sistema de seguridad Toyota Safety Sense'],
+    description: 'Clasico, full estado, full equipo',
+    features: ['Motor 600L', 'Transmisión manual', 'Aire acondicionado', 'Techo solar Topolino'],
     colors: [
       {
-        name: 'Blanco Perla',
+        name: 'Blanco Zastaba',
         code: '#F8F9FA',
-        image: 'https://media.ed.edmunds-media.com/toyota/corolla/2023/oem/2023_toyota_corolla_sedan_xse_fq_oem_1_1280.jpg',
+        image: 'https://i.pinimg.com/1200x/18/bf/77/18bf7756aa65bd64ad74ceeeb02fac91.jpg',
         priceModifier: 0
       },
       {
-        name: 'Negro Diamante',
+        name: 'Rojo topo',
         code: '#212529',
-        image: 'https://www.elcarrocolombiano.com/wp-content/uploads/2023/05/202309-TOYOTA-COROLLA-2024-PORTADA.jpg',
+        image: 'https://i.pinimg.com/1200x/72/ad/c8/72adc84d1401bc24b755c4a4e8218369.jpg',
         priceModifier: 500
       },
       {
-        name: 'Rojo Metálico',
+        name: 'Azul cielo',
         code: '#DC3545',
-        image: 'https://i.pinimg.com/736x/d6/24/dc/d624dc84ab1b68d4bbed3682c37e71c0.jpg',
+        image: 'https://i.pinimg.com/736x/1e/d2/f1/1ed2f1a1f86308eb7a25458b59ce72a2.jpg',
         priceModifier: 800
       },
       {
-        name: 'Azul Marino',
+        name: 'Amarillo carreras',
         code: '#0F3460',
-        image: 'https://soymotor.com/sites/default/files/2023-02/Toyota%20Corolla%202023%20exterior%201.jpg',
+        image: 'https://i.pinimg.com/736x/bd/b2/b9/bdb2b96fade9b8367c316ccec7b8ed3b.jpg',
         priceModifier: 600
       }
     ],
     accessories: [
       {
-        id: 'car-acc-1',
-        name: 'Llantas Deportivas 18"',
+        id: 'car-acc-15',
+        name: 'Llantas Deportivas 14"',
         price: 1200,
         category: 'Llantas',
         description: 'Llantas de aleación ligera para mejor rendimiento',
         image: 'https://i.pinimg.com/1200x/7b/e6/d2/7be6d26233ad1fe20940ff7727cccf8d.jpg'
       },
       {
-        id: 'car-acc-2',
+        id: 'car-acc-16',
         name: 'Sistema de Audio Premium',
         price: 800,
         category: 'Audio',
@@ -307,7 +307,7 @@ export const vehicles: Vehicle[] = [
         image: 'https://i.pinimg.com/736x/78/58/91/785891a2f4908c9f1e91a83dc8fdd6e4.jpg'
       },
       {
-        id: 'car-acc-3',
+        id: 'car-acc-17',
         name: 'Kit de Luces LED',
         price: 450,
         category: 'Iluminación',
@@ -315,7 +315,7 @@ export const vehicles: Vehicle[] = [
         image: 'https://i.pinimg.com/736x/60/fd/3f/60fd3f3281d5438029f548d282b20fed.jpg'
       },
       {
-        id: 'car-acc-4',
+        id: 'car-acc-18',
         name: 'Alarma de Seguridad',
         price: 280,
         category: 'Seguridad',
